@@ -24,8 +24,47 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
 
+![Alt text](img/ex71setool.png)
 
 
+
+The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
+
+![Alt text](img/ex72.png)
+
+It displays the following menu and select 2 for Website Attack Vectors:
+
+
+![Alt text](img/ex7set1.png)
+
+The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
+
+
+![Alt text](img/ex8set2.png)
+The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
+
+![Alt text](img/ex7set3.png)
+
+It shows the following screen in which the ip address of the attacker need to be given which is the default value:
+
+
+![Alt text](img/ex77.png)
+
+
+In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
+
+![Alt text](img/login.png)
+
+![Alt text](img/google.png)
+
+
+SET logs the information regarding the Google credentials:
+
+![Alt text](img/ex78.png)
+
+SET logs the information in the xml file under /root/.set directory:
+
+![Alt text](img/ex7final.png)
 
 
 
